@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Steve's Blog O' Stuff
 locale:           en_US
 url:
 
@@ -40,10 +40,10 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Stephen Kent
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email:
+  email: stevejameskent1@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -54,7 +54,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #stevejameskent
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
